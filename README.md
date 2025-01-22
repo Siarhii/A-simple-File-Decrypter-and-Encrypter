@@ -66,6 +66,8 @@ wails build
 # Run the application
 ./build/bin/Desktop.exe
 
+```
+
 💡 Usage
 🔐 Encrypt Files
 Open the app and navigate to the Encrypt tab.
@@ -125,4 +127,3 @@ Added file encryption and decryption functionality
 Improved UI for better user experience
 
 Cross-platform support for Windows, macOS, and Linux
-```
