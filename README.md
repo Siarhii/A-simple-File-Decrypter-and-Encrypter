@@ -31,11 +31,11 @@ A simple and secure desktop application built with **Wails** (Go + React) for en
 
 ### 🔐 Encrypt Page
 
-![Encrypt Page Screenshot](SS/encryptSS.png)
+![Encrypt Page Screenshot](SS/EncryptSS.png)
 
 ### 🔓 Decrypt Page
 
-![Decrypt Page Screenshot](SS/decryptSS.png)
+![Decrypt Page Screenshot](SS/DecryptSS.png)
 
 ---
 
@@ -68,17 +68,20 @@ wails build
 
 ```
 
-💡 Usage
-🔐 Encrypt Files
-Open the app and navigate to the Encrypt tab.
+## 💡 Usage
 
-Enter a password.
+## 🔐 Encrypt Files
 
-Select one or more files to encrypt.
+    Open the app and navigate to the Encrypt tab.
 
-Click Encrypt Files to start the process.
+    Enter a password.
 
-🔓 Decrypt Files
+    Select one or more files to encrypt.
+
+    Click Encrypt Files to start the process.
+
+## 🔓 Decrypt Files
+
 Open the app and navigate to the Decrypt tab.
 
 Enter the password used during encryption.
@@ -89,41 +92,35 @@ Choose an output directory for the decrypted files.
 
 Click Decrypt Files to start the process.
 
-🚧 Roadmap and Progress
-✅ Working encryption and decryption functionality
+---
 
-✅ Clean and responsive UI
+## 🛡️ Security
 
-✅ Cross-platform support
-
-⬜ Add file compression before encryption
-
-⬜ Implement advanced encryption algorithms
-
-⬜ Add cloud storage integration
-
-🛡️ Security
 Password Protection: Files are encrypted with a user-provided password.
 
 Local Processing: All encryption/decryption happens locally on your machine.
 
-👥 Contributors
-Siarhii - Developer
+---
 
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+### 👥 Contributors
 
-🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-Feel free to check the issues page.
+- **[Siarhii](https://github.com/Siarhii)** - Developer
 
-🌟 Show Your Support
-If you like this project, give it a ⭐️ and share it with others!
+---
 
-Recent Updates:
+### 📜 License
 
-Added file encryption and decryption functionality
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-Improved UI for better user experience
+---
 
-Cross-platform support for Windows, macOS, and Linux
+### 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to check the [issues page](https://github.com/Siarhii/Remote-thing/issues).
+
+---
+
+### 🌟 Show Your Support
+
+If you like this project, **give it a ⭐️** and share it with others!
