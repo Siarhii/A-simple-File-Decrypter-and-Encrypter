@@ -31,11 +31,11 @@ A simple and secure desktop application built with **Wails** (Go + React) for en
 
 ### 🔐 Encrypt Page
 
-![Encrypt Page Screenshot](screenshots/encrypt.png)
+![Encrypt Page Screenshot](SS/encryptSS.png)
 
 ### 🔓 Decrypt Page
 
-![Decrypt Page Screenshot](screenshots/decrypt.png)
+![Decrypt Page Screenshot](SS/decryptSS.png)
 
 ---
 
@@ -43,7 +43,7 @@ A simple and secure desktop application built with **Wails** (Go + React) for en
 
 ### Option 1: Precompiled Binary
 
-Download the executable: **[file-encryptor.exe](./file-encryptor.exe)**
+Download the executable: **[file-encryptor.exe](./build/bin/Desktop.exe)**
 
 ### Option 2: Build From Source
 
@@ -64,7 +64,7 @@ npm install
 wails build
 
 # Run the application
-./file-encryptor.exe
+./Desktop.exe
 
 💡 Usage
 🔐 Encrypt Files
