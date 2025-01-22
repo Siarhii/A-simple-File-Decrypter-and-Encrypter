@@ -43,7 +43,7 @@ A simple and secure desktop application built with **Wails** (Go + React) for en
 
 ### Option 1: Precompiled Binary
 
-Download the executable: **[Desktop.exe](./build/bin/Desktop.exe)**
+Download the executable: **[Desktop.exe](https://github.com/Siarhii/A-simple-File-Decrypter-and-Encrypter/releases/latest/download/Desktop.exe)**
 
 ### Option 2: Build From Source
 
