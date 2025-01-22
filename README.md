@@ -1,9 +1,9 @@
 # 🚀 File Encryption and Decryption App
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)  
-![License](https://img.shields.io/github/license/your-username/your-repo-name)  
-![GitHub issues](https://img.shields.io/github/issues/your-username/your-repo-name)  
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo-name)
+![GitHub stars](https://img.shields.io/github/stars/Siarhii/A-simple-File-Decrypter-and-Encrypter?style=social)  
+![License](https://img.shields.io/github/license/Siarhii/A-simple-File-Decrypter-and-Encrypter)  
+![GitHub issues](https://img.shields.io/github/issues/Siarhii/A-simple-File-Decrypter-and-Encrypter)  
+![GitHub last commit](https://img.shields.io/github/last-commit/Siarhii/A-simple-File-Decrypter-and-Encrypter)
 
 A simple and secure desktop application built with **Wails** (Go + React) for encrypting and decrypting files. Perfect for protecting sensitive data with a user-friendly interface.
 
@@ -43,7 +43,7 @@ A simple and secure desktop application built with **Wails** (Go + React) for en
 
 ### Option 1: Precompiled Binary
 
-Download the executable: **[file-encryptor.exe](./build/bin/Desktop.exe)**
+Download the executable: **[Desktop.exe](./build/bin/Desktop.exe)**
 
 ### Option 2: Build From Source
 
@@ -51,10 +51,10 @@ Follow these steps to clone and build the app locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Siarhii/A-simple-File-Decrypter-and-Encrypter.git
 
 # Navigate into the project folder
-cd your-repo-name
+cd A-simple-File-Decrypter-and-Encrypter
 
 # Install frontend dependencies
 cd frontend
@@ -64,7 +64,7 @@ npm install
 wails build
 
 # Run the application
-./Desktop.exe
+./build/bin/Desktop.exe
 
 💡 Usage
 🔐 Encrypt Files
@@ -106,7 +106,7 @@ Password Protection: Files are encrypted with a user-provided password.
 Local Processing: All encryption/decryption happens locally on your machine.
 
 👥 Contributors
-Your Name - Developer
+Siarhii - Developer
 
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
